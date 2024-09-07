@@ -70,10 +70,6 @@
   <a href="https://github.com/Rockytkg">
     <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/Rockytkg">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </p>
 
 ### 📊 我的 GitHub 统计
