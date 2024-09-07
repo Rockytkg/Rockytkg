@@ -1,13 +1,10 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  你好,我是 Rockytkg
-</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="200" height="200" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/Rockytkg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Computer+Science+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Passionate+about+Cybersecurity+%F0%9F%94%90%EF%B8%8F" alt="Typing SVG">
-  </a>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There!+%F0%9F%91%8B;I'm+Rockytkg+%F0%9F%A4%94;Hacker+by+Day+%F0%9F%92%BB;Gamer+by+Night+%F0%9F%8E%AE" alt="Typing SVG">
+</h1>
 
 <p align="center">
   <a href="https://github.com/Rockytkg"><img src="https://img.shields.io/github/followers/Rockytkg?style=for-the-badge" alt="GitHub Followers"></a>
@@ -16,12 +13,17 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" height="300" frameBorder="0" class="giphy-embed">
+</p>
+
+<h3 align="center">一句话介绍</h3>
+<p align="center">
+  我是一名热爱黑客技术和游戏的计算机科学专业学生,平日里我像一名黑客一样钻研网络安全,夜晚时我就化身为一名游戏玩家,在虚拟世界中释放自己的灵魂! 😜
 </p>
 
 ### 👨‍💻 技能和经验
 
-<img align="right" src="https://media.giphy.com/media/M9kNUVUFLHdEeSWdmD/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
 
 - 💻 **编程语言**
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -47,12 +49,13 @@
 ### 🌱 我正在学习
 
 <p>
-  <img align="right" src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="300" />
+  <img align="right" src="https://media.giphy.com/media/26tn33Pm8QnwdtUDe/giphy.gif" width="300" />
   
   🔭 网络安全和应急响应的高级知识<br>
   🔍 逆向工程和恶意软件分析<br>
   📖 新的编程语言和工具<br>
-  💡 提升开发效率和解决问题的能力
+  💡 提升开发效率和解决问题的能力<br>
+  🎮 游戏开发和设计
 </p>
 
 <br>
@@ -66,6 +69,10 @@
   &nbsp;&nbsp;
   <a href="https://github.com/Rockytkg">
     <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/Rockytkg">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
