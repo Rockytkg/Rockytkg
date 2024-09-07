@@ -95,4 +95,8 @@
 
 ---
 
-⭐️ 来自 [@Rockytkg](https://github.com/Rockytkg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rockytkg&color=blueviolet" alt="Profile views">
+</p>
+
+⭐️ From [@Rockytkg](https://github.com/Rockytkg) with 💖
