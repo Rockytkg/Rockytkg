@@ -7,16 +7,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Rockytkg"><img src="https://img.shields.io/github/followers/Rockytkg?label=Followers&style=social" alt="GitHub Badge"></a>
-  <a href="https://github.com/Rockytkg"><img src="https://img.shields.io/github/stars/Rockytkg?style=social" alt="GitHub Stars"></a>
-  <a href="https://letanml.xyz"><img src="https://img.shields.io/badge/Website-letanml.xyz-blue?style=flat&logo=google-chrome" alt="Website Badge"></a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  />
-</p>
-
-<p align="center">
   <a href="https://github.com/Rockytkg"><img src="https://img.shields.io/github/followers/Rockytkg?style=for-the-badge" alt="GitHub Followers"></a>
   <a href="https://github.com/Rockytkg"><img src="https://img.shields.io/github/stars/Rockytkg?style=for-the-badge" alt="GitHub Stars"></a>
   <a href="https://letanml.xyz"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"></a>
